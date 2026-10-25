@@ -1,0 +1,6 @@
+{
+  "name": "Outback Motor Works",
+  "description": "Logbook servicing, repairs, diagnostics, and 4WD specialists in Winnellie, Darwin NT. 5.0 star rated local workshop. Keeping the Territory Moving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
